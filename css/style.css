@@ -755,7 +755,7 @@ select::-ms-expand {
 .header__product {
   display: table-cell;
   vertical-align: middle;
-  padding: 0 20px;
+  padding: 0 12px;
 }
 
 @media (max-width: 767px) {
@@ -786,7 +786,7 @@ select::-ms-expand {
 
 .header__price {
   font-weight: 600;
-  font-size: 40px;
+  font-size: 32px;
   line-height: 59px;
   position: relative;
   text-align: center;
